@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "asphyxia",
+  "base_artist": "Cö shu Nie",
+  "createdAt": "2026-03-18T09:08:15.637826Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Asphyxia",
+      "artist": "Sirenia",
+      "has_synced": true,
+      "path": "select/01_Asphyxia_Sirenia.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "asphyxia",
+      "artist": "Cö shu Nie",
+      "has_synced": true,
+      "path": "select/02_asphyxia_Cö_shu_Nie.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "asphyxia (piano ver.)",
+      "artist": "Cö shu Nie",
+      "has_synced": true,
+      "path": "select/03_asphyxia_(piano_ver.)_Cö_shu_Nie.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Asphyxia (Piano Ver.)",
+      "artist": "Cö shu Nie",
+      "has_synced": true,
+      "path": "select/04_Asphyxia_(Piano_Ver.)_Cö_shu_Nie.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Asphyxia",
+      "artist": "Cö shu Nie",
+      "has_synced": true,
+      "path": "select/05_Asphyxia_Cö_shu_Nie.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "asphyxia (piano ver.) - Piano Version",
+      "artist": "Cö shu Nie",
+      "has_synced": true,
+      "path": "select/06_asphyxia_(piano_ver.)_-_Piano_Version_Cö_shu_Nie.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Asphyxia (Piano Version)",
+      "artist": "Cö Shu Nie",
+      "has_synced": true,
+      "path": "select/07_Asphyxia_(Piano_Version)_Cö_Shu_Nie.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Asphyxia",
+      "artist": "The Network",
+      "has_synced": true,
+      "path": "select/08_Asphyxia_The_Network.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Asphyxia (Tokyo Ghoul:re)",
+      "artist": "Selphius",
+      "has_synced": true,
+      "path": "select/09_Asphyxia_(Tokyo_Ghoul_re)_Selphius.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "asphyxia - From THE FIRST TAKE",
+      "artist": "Cö shu Nie",
+      "has_synced": true,
+      "path": "select/10_asphyxia_-_From_THE_FIRST_TAKE_Cö_shu_Nie.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Asphyxia (From \"Tokyo Ghoul:re\")",
+      "artist": "AmaLee",
+      "has_synced": false,
+      "path": "select/11_Asphyxia_(From__Tokyo_Ghoul_re_)_AmaLee.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Asphyxia",
+      "artist": "Cö shu Nie",
+      "has_synced": true,
+      "path": "select/12_Asphyxia_Cö_shu_Nie.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Asphyxia",
+      "artist": "Blinding Sunrise",
+      "has_synced": false,
+      "path": "select/13_Asphyxia_Blinding_Sunrise.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Asphyxia",
+      "artist": "dj-Jo feat. Myulee",
+      "has_synced": false,
+      "path": "select/14_Asphyxia_dj-Jo_feat._Myulee.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Asphyxia",
+      "artist": "dj-Jo",
+      "has_synced": false,
+      "path": "select/15_Asphyxia_dj-Jo.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Asphyxia",
+      "artist": "Sati Akura",
+      "has_synced": true,
+      "path": "select/16_Asphyxia_Sati_Akura.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "asphyxia - From THE FIRST TAKE - Single",
+      "artist": "Cö shu Nie",
+      "has_synced": true,
+      "path": "select/17_asphyxia_-_From_THE_FIRST_TAKE_-_Single_Cö_shu_Nie.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "asphyxia",
+      "artist": "Cö Shu Nie",
+      "has_synced": false,
+      "path": "select/pl_01_asphyxia_Cö_Shu_Nie.txt"
+    }
+  ]
+}
